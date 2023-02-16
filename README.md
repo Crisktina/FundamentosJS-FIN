@@ -1,1 +1,5 @@
 # FundamentosJS-FIN
+
+A VER QUE PASA
+
+Y A QUI TAMBIEN
